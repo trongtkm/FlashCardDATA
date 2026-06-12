@@ -1,1 +1,13 @@
-
+{
+  "version": "2026.06.12",
+  "title": "Cập nhật tháng 6/2026",
+  "items": [
+    { "type": "new",  "text": "Thêm tính năng bảo vệ file .flashcard bằng mã hoá AES-256" },
+    { "type": "new",  "text": "Import trực tuyến từ thư viện FlashCard trên GitHub" },
+    { "type": "fix",  "text": "Sửa lỗi import file âm thanh MP3" },
+    { "type": "tip",  "text": "Mẹo: Ctrl+Alt+F để lật thẻ nhanh" }
+  ],
+  "contactZalo": "0937422480",
+  "contactEmail": "trong07@yahoo.com",
+  "downloadUrl": "https://github.com/trongtkm/FlashCard/releases"
+}
